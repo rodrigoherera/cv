@@ -1,2 +1,3 @@
 # cv
-Please, feel free to download my curriculum vitae!
+
+Please, feel free to download my resume!
